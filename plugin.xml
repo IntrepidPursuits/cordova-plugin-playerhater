@@ -46,6 +46,7 @@
         <source-file src="src/android/org/nypr/cordova/playerhaterplugin" target-dir="src/org/nypr/cordova" />
         <source-file src="src/android/org/prx/playerhater" target-dir="src/org/prx" />
         <resource-file src="res/android/" target="res" />
+        <resource-file src="lib/android/libvlc-3.0.0.aar" target-dir="libs" />
 
         <source-file src="lib/android/aacdecoder-android-0.8.jar" target-dir="libs" />
         <source-file src="lib/android/mips" target-dir="libs" />
